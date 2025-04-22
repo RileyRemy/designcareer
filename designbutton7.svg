@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1_copy_7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 249.97 231.35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff6161;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Inter18pt-Medium, 'Inter 18pt';
+        font-size: 60px;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        letter-spacing: .01em;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="134.88" cy="114.5" r="114.5"/>
+  <text class="cls-2" transform="translate(52.52 139.72)"><tspan class="cls-3" x="0" y="0">T</tspan><tspan x="39.49" y="0">YPO</tspan></text>
+</svg>

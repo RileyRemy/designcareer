@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1_copy_4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 249.97 231.35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6050ff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Inter18pt-Medium, 'Inter 18pt';
+        font-size: 60px;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="124.03" cy="114.5" r="114.5"/>
+  <text class="cls-2" transform="translate(63.37 139.72)"><tspan x="0" y="0">PUB</tspan></text>
+</svg>
