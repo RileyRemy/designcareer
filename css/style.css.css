@@ -1,0 +1,42 @@
+
+.topnavbar {background-color: #77ceff;
+padding: 20px;
+	margin-top:  20px;
+text-align: center;
+}
+
+.topnavbar a {
+	display: inline-block;
+	margin: 10px;
+	text-decoration: none;
+	color:  #000;
+}
+
+.h1 { text-align: center; 
+}
+
+.bottomnavbar {background-color: #77ceff;
+padding: 20px;
+	margin-top:  20px;
+text-align: center;
+}
+
+.bottomnavbar a {
+	display: inline-block;
+	margin: 10px;
+	text-decoration: none;
+	color:  #000;
+}
+
+.imagecenter { text-align: center; 
+}
+
+.p1 { text-align: center; 
+}
+
+.h2 { text-align: center; 
+}
+.h3 { text-align: center; 
+}
+
+.basiccenteralign {text-align: center;}
