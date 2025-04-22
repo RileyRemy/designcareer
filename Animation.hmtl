@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  
+  <title>WELCOME | HOME</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+<div class="header">
+
+    <a href="HOME.html">PROFILE</a>
+    <a href="LIVE.html">DASHBOARD</a>
+    <a href="MUSIC.html">LOGIN</a>
+    <a href="LandingPage.html">HOME</a>
+</div>
+
+
+  <h1>Advertising Design</h1>
+  <img src="images/designbutton1.svg" alt="designbutton1" 
+  width = 300 height = 300/>
+  <div class=".designselectionbox">
+  <a href="AdvertisingDesignPortfolioExamples.html">Advertising Design Portfolio Examples</a>
+</div>
+
+<h2> What is Advertising Design?</h2>
+  <p>
+ Advertising deisgn is the art of creating visually compelling and persuasive materials to promote products, services, or brands, aiming to grab attention, convey messages effectively, and ultimately drive consumer action. 
+  </p>
+
+  <h3> Job Roles </h3>
+  <p>
+In the  world of advertising there are numerous roles one can puruse after receiving their bachelors degree or associates degree some college these include: Graphic Designer, Art Director, Copywriter, UX Designer, Motion Graphics, Web Designer, and Advertising Manager
+</body>
+
+</html>
