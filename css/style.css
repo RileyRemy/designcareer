@@ -1,49 +1,57 @@
-/* NAVIGATION STYLES */
-.topnavbar,
-.bottomnavbar {
-  background-color: #77ceff;
+/* Basic Styles for All Pages */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+main {
   padding: 20px;
-  margin-top: 20px;
+}
+
+.topnavbar {
+  background-color: #333;
+  color: white;
+  padding: 10px 0;
   text-align: center;
 }
 
-.topnavbar a,
-.bottomnavbar a {
-  display: inline-block;
-  margin: 10px;
+.topnavbar a {
+  color: white;
+  margin: 0 15px;
   text-decoration: none;
-  color: #000;
 }
 
-/* TYPOGRAPHY ALIGNMENT */
-h1,
-h2,
-h3,
-p {
-  text-align: center;
+.topnavbar a:hover {
+  text-decoration: underline;
 }
 
-/* IMAGE ALIGNMENT */
+section {
+  margin: 20px 0;
+}
+
+h1, h2, h3 {
+  color: #333;
+}
+
 .imagecenter {
   text-align: center;
 }
 
-.imagecenter img {
-  display: inline-block;
+.text-container {
+  padding: 10px;
 }
 
-/* GENERAL CLASS */
 .basiccenteralign {
   text-align: center;
+  margin-top: 10px;
 }
 
-/* Text Container Styling */
-.text-container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-  box-sizing: border-box;
-  background-color: #f9f9f9;
-  border-radius: 10px;
+a {
+  color: #007BFF;
+  text-decoration: none;
 }
 
+a:hover {
+  text-decoration: underline;
+}
