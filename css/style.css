@@ -7,13 +7,6 @@
   text-align: center;
 }
 
-.content-wrapper {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0 20px;
-}
-
-
 .topnavbar a,
 .bottomnavbar a {
   display: inline-block;
@@ -43,3 +36,14 @@ p {
 .basiccenteralign {
   text-align: center;
 }
+
+/* Text Container Styling */
+.text-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+}
+
